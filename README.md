@@ -62,6 +62,7 @@ npm run dev
 ```
 
 Open http://localhost:5173. `frontend/.env` points the app at `http://localhost:5000/api`.
+Or Open using this link: https://feed-back-admin-panel.vercel.app/dashboard
 
 ## API
 
