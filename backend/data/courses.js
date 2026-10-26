@@ -1,0 +1,17 @@
+module.exports = [
+  { courseId: 'FSMERN-401', name: 'Full Stack Development with MERN', duration: '12 weeks' },
+  { courseId: 'PFPY-101', name: 'Programming Fundamentals in Python', duration: '8 weeks' },
+  { courseId: 'DSA-217', name: 'Data Structures and Algorithms', duration: '10 weeks' },
+  { courseId: 'DMSQL-150', name: 'Database Management with SQL', duration: '6 weeks' },
+  { courseId: 'UIUX-128', name: 'UI/UX Design Essentials', duration: '4 weeks' },
+  { courseId: 'CNET-230', name: 'Computer Networks', duration: '8 weeks' },
+  { courseId: 'MLLM-310', name: 'Introduction to Machine Learning', duration: '12 weeks' },
+  { courseId: 'CLDA-260', name: 'Cloud Computing on AWS', duration: '6 weeks' },
+  { courseId: 'CYBF-192', name: 'Cybersecurity Fundamentals', duration: '8 weeks' },
+  { courseId: 'WEBM-143', name: 'Web Development with HTML, CSS, and JavaScript', duration: '6 weeks' },
+  { courseId: 'APPR-220', name: 'Mobile App Development with React Native', duration: '10 weeks' },
+  { courseId: 'AIDL-410', name: 'Artificial Intelligence and Deep Learning', duration: '12 weeks' },
+  { courseId: 'PRJM-380', name: 'Project Management and Agile Methodologies', duration: '8 weeks' },
+  { courseId: 'VRD-357', name: 'Virtual Reality Development', duration: '10 weeks' },
+  { courseId: 'IOT-279', name: 'Internet of Things (IoT) Development', duration: '8 weeks' },
+];
