@@ -1,6 +1,6 @@
-# Feedback Desk: Admin Panel for a Feedback Application (MERN)
+# Feedback Desk: Admin Panel for a Feedback Application  using MERN STACK
 
-An admin panel for managing course feedback. Admins can see all feedback on a dashboard, add new feedback, update existing entries and delete them.
+An admin panel used for managing course feedback as admins can see all feedback on a dashboard, add new feedback, update existing entries and delete them howevr way they wish.
 
 **Stack:** MongoDB Atlas · Express.js · React (Vite + React Router) · Node.js
 
