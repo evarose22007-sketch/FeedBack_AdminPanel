@@ -7,7 +7,8 @@ An admin panel used for managing course feedback as admins can see all feedback 
 ```
 project-root/
 ├── backend/     Node.js + Express REST API, Mongoose models, MongoDB Atlas connection
-└── frontend/    React admin panel (Dashboard + Add Feedback)
+├── docs/        Has screenshots of how it looks in Desktop and Mobile
+└── frontend/    React admin panel which includes Dashboard and Add Feedback
 ```
 
 ## Features
