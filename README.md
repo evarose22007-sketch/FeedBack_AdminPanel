@@ -83,8 +83,9 @@ Validation errors return `422` with a message for each field:
 ## Screenshots
 
 | Desktop |
-| --- | --- |
+| --- | --- | --- |
 | ![Dashboard](docs/dashboard.png) | ![Add feedback](docs/add-feedback.png) | ![Delete confirmation](docs/delete-confirm.png) |
 
 | Mobile |
+| --- |
 | ![Mobile dashboard](docs/mobile-dashboard.png) |
