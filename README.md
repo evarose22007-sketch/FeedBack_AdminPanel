@@ -49,7 +49,7 @@ The `.env` file is already included:
 PORT=5050
 MONGODB_URI=mongodb+srv://<user>:<password>@<cluster>.mongodb.net/feedbackdb?retryWrites=true&w=majority
 ```
-
+Please note to add your own MongoDB URL to ensure it works (whether it be with or without SRV)
 You should be able to see `MongoDB connected` and `Feedback API running on http://localhost:5000`.
 
 ### 2. Frontend (in a second terminal)
